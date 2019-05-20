@@ -1,0 +1,2 @@
+# docs
+GitPad Documentation
