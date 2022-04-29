@@ -1,3 +1,5 @@
+![logo](http://logo.plainedit.com/2/cover.png)
+
 # [Documentation - docs.plainedit.com](https://docs.plainedit.com/)
 
 PLAINEDIT takes markdown, evaluates code blocks with interpreters and prints the output of those processes to a different codeblock.
