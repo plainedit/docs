@@ -1,7 +1,13 @@
-# docs
-GitPad Documentation
+# [Documentation - docs.plainedit.com](https://docs.plainedit.com/)
 
+PLAINEDIT takes markdown, evaluates code blocks with interpreters and prints the output of those processes to a different codeblock.
 
+## MENU
+
++ [Offer - offer.plainedit.com](http://offer.plainedit.com/)
++ [Sourcecode - bash.plainedit.com](http://bash.plainedit.com/)
++ [News - blog.plainedit.com](http://blog.plainedit.com/)
++ [Usecases - examples.plainedit.com](http://examples.plainedit.com/)
 
 
 ## Documentation
@@ -47,3 +53,12 @@ GitPad Documentation
 * [Mongoose](http://mongoosejs.com/) - Almost an ORM for mongodb.
 * [Waterline](https://github.com/balderdashy/waterline) - Datastore-agnostic tool that dramatically simplifies interaction with one or more databases.
 
+
+
+
+---
+
+You can use the [editor on GitHub](https://github.com/plainedit/www/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
++ [edit](https://github.com/plainedit/www/edit/master/README.md)
++ [plainedit/www](https://github.com/plainedit/www)
