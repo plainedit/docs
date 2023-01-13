@@ -55,6 +55,9 @@ PLAINEDIT takes markdown, evaluates code blocks with interpreters and prints the
 * [Mongoose](http://mongoosejs.com/) - Almost an ORM for mongodb.
 * [Waterline](https://github.com/balderdashy/waterline) - Datastore-agnostic tool that dramatically simplifies interaction with one or more databases.
 
+## Interesting opensource projects:
+
++ [blau_araujo/md2term: Parser de markdown para destaques e cores do terminal. - md2term - Codeberg.org](https://codeberg.org/blau_araujo/md2term)
 
 
 
